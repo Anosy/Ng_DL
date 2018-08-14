@@ -1,7 +1,7 @@
 # 本部分主要是介绍吴恩达课程中，如何使用python来搭建两层神经网络
 ## 普通的逻辑回归其预测的结果如下：
 Accuracy of logistic regression: 47 % (percentage of correctly labelled datapoints)<br>
-![](https://https://github.com/Anosy/Ng_DL/blob/master/1_3_one_hidden_layer/logistic.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/1_3_one_hidden_layer/logistic.png)<br>
 ## 两层神经网络运行的结果如下：
 Cost after iteration 0: 1.127380<br>
 Cost after iteration 1000: 0.818943<br>
