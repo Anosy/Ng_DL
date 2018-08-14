@@ -14,7 +14,7 @@ Cost after iteration 7000: 0.497573<br>
 Cost after iteration 8000: 0.485563<br>
 Cost after iteration 9000: 0.475241<br>
 Accuracy: 84%<br>
-![](https://https://github.com/Anosy/Ng_DL/blob/master/1_3_one_hidden_layer/1_hidden_NN.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/1_3_one_hidden_layer/1_hidden_NN.png)<br>
 ## 本部分还添加上了简单的tensorflow实现版本，效果如下：
 迭代2000次，损失值降低为0.637905<br>
 迭代4000次，损失值降低为0.619604<br>
@@ -27,4 +27,5 @@ Accuracy: 84%<br>
 迭代18000次，损失值降低为0.363612<br>
 迭代20000次，损失值降低为0.3572<br>
 训练集的精确度为86.75%<br>
+
 
