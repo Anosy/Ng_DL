@@ -20,8 +20,8 @@ On the train set:<br>
 Accuracy: 0.5<br>
 On the test set:<br>
 Accuracy: 0.5<br>
-![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/zero_initial.png)<br>
-![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/zero_initial_class.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/picture/zero_initial.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/picture/zero_initial_class.png)<br>
 ### 随机初始化的结果：
 Cost after iteration 1000: 0.6250982793959966<br>
 Cost after iteration 2000: 0.5981216596703697<br>
@@ -41,8 +41,8 @@ On the train set:<br>
 Accuracy: 0.83<br>
 On the test set:<br>
 Accuracy: 0.86<br>
-![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/random_initial.png)<br>
-![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/random_inital_class.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/picture/random_initial.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/picture/random_inital_class.png)<br>
 ### he初始化的结果：
 Cost after iteration 0: 0.8830537463419761<br>
 Cost after iteration 1000: 0.6879825919728063<br>
@@ -63,6 +63,6 @@ On the train set:<br>
 Accuracy: 0.9933333333333333<br>
 On the test set:<br>
 Accuracy: 0.96<br>
-![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/he_initial.png)<br>
-![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/he_initial_class.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/picture/he_initial.png)<br>
+![](https://github.com/Anosy/Ng_DL/blob/master/2_1_init_regular_gradient/Initialization/picture/he_initial_class.png)<br>
 ### 从结果可以看出，he初始化产生较好的效果的模型
